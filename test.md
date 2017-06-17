@@ -1,3 +1,3 @@
-# This is a test from Chris
+# chrishanson.me
 
-*now* is a good time.
+*coming soon*
